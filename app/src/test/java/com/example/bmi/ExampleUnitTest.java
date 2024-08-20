@@ -1,4 +1,4 @@
-package bhusal.ujjwal.bmicalculator;
+package com.example.bmi;
 
 import org.junit.Test;
 

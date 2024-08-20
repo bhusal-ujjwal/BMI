@@ -1,4 +1,4 @@
-package bhusal.ujjwal.bmicalculator;
+package com.example.bmi;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("bhusal.ujjwal.bmicalculator", appContext.getPackageName());
+        assertEquals("com.example.bmi", appContext.getPackageName());
     }
 }

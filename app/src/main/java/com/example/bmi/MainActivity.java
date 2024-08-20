@@ -1,5 +1,4 @@
-package bhusal.ujjwal.bmicalculator;
-
+package com.example.bmi;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -63,12 +62,6 @@ public class MainActivity extends AppCompatActivity {
         bmiLabel=bmi+"\n" +bmiLabel;
 
         result.setText(bmiLabel);
-
-
-
     }
-
-
-
 
 }
